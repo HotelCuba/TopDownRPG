@@ -1,5 +1,2 @@
-
-
-
 #include "Character/EnemyCharacter.h"
 
